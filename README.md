@@ -5,6 +5,7 @@
 [Doc - Formato do Dockerfile](https://docs.docker.com/engine/reference/builder/#format)
 
 FROM Informa a partir de qual imagem ser'a gerada a nova imagem
+
 [Doc - FROM](https://docs.docker.com/engine/reference/builder/#from)
 
 [Doc - LABEL](https://docs.docker.com/engine/reference/builder/#label)
